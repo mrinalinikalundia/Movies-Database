@@ -1,2 +1,2 @@
 # Movies-Database
- Movies data from different platform will analysis
+ Analysis of movies in different OTT platform
